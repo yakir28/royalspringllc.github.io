@@ -1,0 +1,69 @@
+section{
+  width: 100%;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+.text{
+  margin-left: 5%;
+}
+.container{
+  width:100%;
+  height: 15%;
+  margin-top: 5px;
+  border-bottom: 1px solid black;
+  display: flex;
+  
+}
+.container .name{
+width: 20%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+overflow-x: auto;
+}
+.container .email{
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: auto;
+}
+.email h4{
+  margin-left: 7px;
+}
+.container .phone{
+  width: 20%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: auto;
+}
+.phone h4{
+  margin-left: 7px;
+}
+
+.container .message{
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: auto;
+}
+.message h4{
+  margin-left: 7px;
+
+}
+.container .remove{
+  width: 15%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
